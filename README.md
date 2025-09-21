@@ -44,5 +44,5 @@ npm run build
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Aditya Khadaki].
+This project was created with ❤️ by Aditya Khadaki.
 If you like it, feel free to ⭐ this repository and share!
