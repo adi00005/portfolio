@@ -39,6 +39,7 @@ const Work = () => {
               <img
                 src={project.image}
                 alt={project.title}
+                loading="lazy"
                 className="w-full h-48 object-cover rounded-xl"
               />
             </div>
@@ -82,6 +83,7 @@ const Work = () => {
                 <img
                   src={selectedProject.image}
                   alt={selectedProject.title}
+                  loading="lazy"
                   className="lg:w-full w-[95%] object-contain rounded-xl shadow-2xl"
                 />
               </div>
